@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hazem4
-- 👀 I’m interested in **Network programmability and automation**
+- 👀 I’m interested in **Network Programmability and Automation**
 - 🌱 I’m currently learning **Python**
 
 
